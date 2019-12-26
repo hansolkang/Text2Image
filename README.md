@@ -1,5 +1,5 @@
 # text2image
-인공지능 텀프로젝트
+인공지능 텀프로젝트를 통해서 Text to image이다.
 ![image](https://user-images.githubusercontent.com/14813279/71475390-5e57cc00-2823-11ea-97da-d6478c82c386.png)
 ![image](https://user-images.githubusercontent.com/14813279/71475418-80e9e500-2823-11ea-91c4-73d9dbe6682d.png)
 ![image](https://user-images.githubusercontent.com/14813279/71475433-8ba47a00-2823-11ea-8029-c648b90b0b75.png)
